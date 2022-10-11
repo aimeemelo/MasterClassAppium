@@ -1,0 +1,207 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#language: pt"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 35675542400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.iniciarProjeto()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Login com sucesso",
+        "description": "",
+        "id": "login-de-usuário-melhoria-de-cenário;login-com-sucesso",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 3287696800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu escreva as informações do usuário",
+            "match": {
+              "location": "LoginSteps.que_eu_ecreva_as_informações_do_usuário()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 932721900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "eu clicar em logar",
+            "match": {
+              "location": "LoginSteps.eu_clicar_em_logar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1092100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "vou estar logado no app",
+            "match": {
+              "location": "LoginSteps.vou_estar_logado_no_app()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6613569700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.iniciarProjeto()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Login com sucesso",
+        "description": "",
+        "id": "login-de-usuário-melhoria-de-cenário;login-com-sucesso",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 1436995200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "que eu escreva as informações do usuário",
+            "match": {
+              "location": "LoginSteps.que_eu_ecreva_as_informações_do_usuário()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 665711000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "eu clicar em logar",
+            "match": {
+              "location": "LoginSteps.eu_clicar_em_logar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 76200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "vou estar logado no app",
+            "match": {
+              "location": "LoginSteps.vou_estar_logado_no_app()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5937244900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.iniciarProjeto()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Login com sucesso",
+        "description": "",
+        "id": "login-de-usuário-melhoria-de-cenário;login-com-sucesso",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 1936471100,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "que eu escreva as informações do usuário",
+            "match": {
+              "location": "LoginSteps.que_eu_ecreva_as_informações_do_usuário()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 673823000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "eu clicar em logar",
+            "match": {
+              "location": "LoginSteps.eu_clicar_em_logar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 78500,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "vou estar logado no app",
+            "match": {
+              "location": "LoginSteps.vou_estar_logado_no_app()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "line": 19,
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Login de Usuário Melhoria de Cenário",
+    "description": "",
+    "id": "login-de-usuário-melhoria-de-cenário",
+    "keyword": "Funcionalidade",
+    "uri": "login.feature"
+  }
+]
