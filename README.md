@@ -4,7 +4,7 @@ Projeto simples de automação de testes mobile com apk fornecida pelo: "https:/
 
 # Pré-requisitos
 
-É necessário ter o Java, Intellij, navegadores e drivers instalados para executar este projeto.
+É necessário ter o Java e Intellij instalados para executar este projeto.
 
 > Usei as versões `java jdk 1.8`, `java client 4.1.2 , 'maven 1.8' , 'cucumber 3.0.2' . Sugiro que você use as mesmas versões ou versões posteriores.
 
